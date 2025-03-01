@@ -1,6 +1,6 @@
 # emergent_interp
 
-I refactored the code at the end, so the file paths in the code may not be correct
+I refactored the code after finishing analysis, so the file paths in the code may not be correct
 
 Work for replicating [Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs (Betley et. al)](https://martins1612.github.io/emergent_misalignment_betley.pdf) is in finetune/
 
